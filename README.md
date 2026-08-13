@@ -60,7 +60,7 @@ Esse foi meu primeiro projeto em Java, um desafio passado pela NTT Data. Projeto
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DaviLGS&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaviLGS&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=DaviLGS&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
