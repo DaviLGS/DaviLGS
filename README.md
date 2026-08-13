@@ -1,13 +1,4 @@
-<!--
-  COMO USAR ESSE ARQUIVO
-  1. Crie um repositório PÚBLICO com o MESMO NOME do seu usuário do GitHub
-     (ex: se seu usuário é "davi123", o repo tem que se chamar "davi123/davi123").
-  2. Coloque este conteúdo em um arquivo chamado README.md na raiz desse repo.
-  3. Troque tudo que está entre [COLCHETES] pelas suas informações.
-  4. Troque SEU_USUARIO_GITHUB pelo seu usuário real (aparece em vários lugares).
--->
-
-<h1 align="center">👋 Olá, eu sou o [Davi Garcia]!</h1>
+<h1 align="center">👋 Olá, eu sou o Davi Garcia!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7B32B&center=true&vCenter=true&width=600&lines=Desenvolvedor+Java+%7C+Spring+Boot;Aprendendo+React+%2F+TypeScript;Construindo+o+IBVNova+%E2%9C%9D%EF%B8%8F" alt="Typing SVG" />
@@ -58,18 +49,24 @@ Sistema completo com módulos de **Tesouraria**, **Reembolsos** e **Membros**, c
 
 > 🔒 Repositório privado no momento — em fase ativa de desenvolvimento. Posso mostrar em uma demonstração ou dar acesso mediante solicitação.
 
-### Projeto Java - Gestão Financeira - Beca NTT Data 
-Esse foi meu primeiro projeto em Java que foi um desafio passado pela NTT Data. Este é um projeto básico de gestão financeira com controle de entradas e saídas.
+### Projeto Java - Gestão Financeira - Beca NTT Data
+Esse foi meu primeiro projeto em Java, um desafio passado pela NTT Data. Projeto básico de gestão financeira com controle de entradas e saídas.
 **Stack:** Java · Spring Boot
-
-[[DaviLGS/gestao-financeira](https://github.com/DaviLGS/gestao-financeira)](#)
+[DaviLGS/gestao-financeira](https://github.com/DaviLGS/gestao-financeira)
 
 ---
 
 ## 📊 Minhas estatísticas no GitHub
 
 <p align="center">
-  [![Davi's Github chart](https://ghchart.rshah.org/f7b32b/DaviLGS)](https://github.com/DaviLGS)
+  <img src="https://github-readme-stats.vercel.app/api?username=DaviLGS&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaviLGS&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DaviLGS" target="_blank">
+    <img src="https://ghchart.rshah.org/f7b32b/DaviLGS" alt="Davi's Github chart" />
+  </a>
 </p>
 
 ---
