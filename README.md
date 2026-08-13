@@ -58,10 +58,10 @@ Sistema completo com módulos de **Tesouraria**, **Reembolsos** e **Membros**, c
 
 > 🔒 Repositório privado no momento — em fase ativa de desenvolvimento. Posso mostrar em uma demonstração ou dar acesso mediante solicitação.
 
-### [Nome do Projeto 2]
-Breve descrição de uma linha focando no problema resolvido.
-**Stack:** `tecnologias`
-[Demo](#) • [Código](#)
+### Projeto Java - Gestão Financeira - Beca NTT Data 
+Esse foi meu primeiro projeto em Java que foi um desafio passado pela NTT Data. Este é um projeto básico de gestão financeira com controle de entradas e saídas.
+**Stack:** Java · Spring Boot
+[Demo](#) • [[DaviLGS/gestao-financeira](https://github.com/DaviLGS/gestao-financeira)](#)
 
 ---
 
@@ -79,8 +79,6 @@ Breve descrição de uma linha focando no problema resolvido.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaviLGS&theme=tokyo-night&hide_border=true" alt="Activity graph" width="90%"/>
 </p>
-
-> ℹ️ Essas imagens são SVGs gerados dinamicamente (via github-readme-stats). Elas se atualizam sozinhas sempre que alguém visita seu perfil — você não precisa editar nada manualmente. Basta trocar `DaviLGS` pelo seu usuário real em todos os links acima.
 
 ---
 
