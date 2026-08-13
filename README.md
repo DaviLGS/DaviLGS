@@ -61,7 +61,7 @@ Link Repo:
 ## 📊 Minhas estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaviLGS&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  username=DaviLGS&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=DaviLGS&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
