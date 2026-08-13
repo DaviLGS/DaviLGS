@@ -61,7 +61,8 @@ Sistema completo com módulos de **Tesouraria**, **Reembolsos** e **Membros**, c
 ### Projeto Java - Gestão Financeira - Beca NTT Data 
 Esse foi meu primeiro projeto em Java que foi um desafio passado pela NTT Data. Este é um projeto básico de gestão financeira com controle de entradas e saídas.
 **Stack:** Java · Spring Boot
-[Demo](#) • [[DaviLGS/gestao-financeira](https://github.com/DaviLGS/gestao-financeira)](#)
+
+[[DaviLGS/gestao-financeira](https://github.com/DaviLGS/gestao-financeira)](#)
 
 ---
 
@@ -77,7 +78,7 @@ Esse foi meu primeiro projeto em Java que foi um desafio passado pela NTT Data. 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaviLGS&theme=tokyo-night&hide_border=true" alt="Activity graph" width="90%"/>
+  [![Davi's Github chart](https://ghchart.rshah.org/f7b32b/DaviLGS)](https://github.com/DaviLGS)
 </p>
 
 ---
