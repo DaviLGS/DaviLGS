@@ -64,9 +64,7 @@ Esse foi meu primeiro projeto em Java, um desafio passado pela NTT Data. Projeto
 </p>
 
 <p align="center">
-  <a href="https://github.com/DaviLGS" target="_blank">
-    <img src="https://ghchart.rshah.org/f7b32b/DaviLGS" alt="Davi's Github chart" />
-  </a>
+  <img src="https://raw.githubusercontent.com/DaviLGS/DaviLGS/output/grid-dark.svg" alt="Grid de contribuições real" />
 </p>
 
 ---
